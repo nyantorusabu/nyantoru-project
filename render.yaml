@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: soum-slim1-8
+    name: soum-slim1-10
     env: python
     region: Oregon
     plan: free
