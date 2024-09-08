@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: nyantoru-project
+    name: nyantorusabu-project-sinkoudo
     env: python
     region: Oregon
     plan: free
